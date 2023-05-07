@@ -27,6 +27,11 @@ I'm an data analist how is building workflows and detetions in scala for a livii
 
 ![steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevensteen&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=stevensteen&theme=gruvbox&border_radius=4.5) -->
-
 #
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a project on school.
+
+[website]: https://sbsteenbergen.com
+[youtube]: https://youtube.com/
