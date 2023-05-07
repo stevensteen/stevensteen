@@ -30,7 +30,7 @@ I'm an data analist how is building workflows and detetions in scala for a livii
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Steven's Coding Journey</h3></summary>
    I started my coding journey as a project on school.
 
 [website]: https://sbsteenbergen.com
